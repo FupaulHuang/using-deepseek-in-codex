@@ -1,0 +1,21 @@
+{
+  "name": "using-deepseek-in-codex",
+  "version": "1.0.0",
+  "description": "Configure Codex CLI to use DeepSeek models via Moon Bridge — the required translation proxy between Responses API and Anthropic Messages",
+  "author": {
+    "name": "Your Name",
+    "email": "your-email@example.com"
+  },
+  "homepage": "https://github.com/YOUR_USER/using-deepseek-in-codex",
+  "repository": "https://github.com/YOUR_USER/using-deepseek-in-codex",
+  "license": "MIT",
+  "keywords": [
+    "deepseek",
+    "codex-cli",
+    "moon-bridge",
+    "configuration",
+    "proxy",
+    "protocol-translation"
+  ],
+  "skills": "./skills/"
+}

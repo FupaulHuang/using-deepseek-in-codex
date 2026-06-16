@@ -1,0 +1,6 @@
+{
+  "name": "using-deepseek-in-codex",
+  "description": "Configure Codex CLI to use DeepSeek models via Moon Bridge — the required translation proxy between Responses API and Anthropic Messages",
+  "version": "1.0.0",
+  "contextFileName": "GEMINI.md"
+}
